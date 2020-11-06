@@ -1,0 +1,7 @@
+C:\Users\kypri\source\repos\TrainingPractice_01\KAI_Task_02\obj\Debug\KAI_Task_02.csproj.CoreCompileInputs.cache
+C:\Users\kypri\source\repos\TrainingPractice_01\KAI_Task_02\bin\Debug\KAI_Task_02.exe.config
+C:\Users\kypri\source\repos\TrainingPractice_01\KAI_Task_02\bin\Debug\KAI_Task_02.exe
+C:\Users\kypri\source\repos\TrainingPractice_01\KAI_Task_02\bin\Debug\KAI_Task_02.pdb
+C:\Users\kypri\source\repos\TrainingPractice_01\KAI_Task_02\obj\Debug\KAI_Task_02.exe
+C:\Users\kypri\source\repos\TrainingPractice_01\KAI_Task_02\obj\Debug\KAI_Task_02.pdb
+C:\Users\kypri\source\repos\TrainingPractice_01\KAI_Task_02\obj\Debug\KAI_Task_02.csprojAssemblyReference.cache
